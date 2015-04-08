@@ -1,2 +1,2 @@
 # datasciencecoursera
-My first repository, for the data science toolkit- course project
+My first repository, for the data scientist's toolbox- course project
